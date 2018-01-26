@@ -1,4 +1,4 @@
-package com.assignment.api.api;
+package com.assignment.api;
 
 import android.content.Context;
 import android.content.SharedPreferences;

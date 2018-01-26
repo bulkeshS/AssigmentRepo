@@ -8,7 +8,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
 import com.assignment.adapter.ListAdapter;
-import com.assignment.api.api.ApiRequestHelper;
+import com.assignment.api.ApiRequestHelper;
 import com.assignment.model.Example;
 import com.assignment.util.ConnectionDetector;
 import com.assignment.util.ItemOffsetDecoration;

@@ -3,8 +3,8 @@ package com.assignment;
 import android.app.Application;
 import android.content.Context;
 
-import com.assignment.api.api.ApiRequestHelper;
-import com.assignment.api.api.PrefManager;
+import com.assignment.api.ApiRequestHelper;
+import com.assignment.api.PrefManager;
 
 public class MyApp extends Application {
     private PrefManager preferences;

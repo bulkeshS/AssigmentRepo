@@ -1,4 +1,4 @@
-package com.assignment.api.api;
+package com.assignment.api;
 
 import com.assignment.model.Address;
 import com.assignment.model.Example;

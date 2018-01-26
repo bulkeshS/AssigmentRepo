@@ -1,10 +1,9 @@
-package com.assignment.api.api;
+package com.assignment.api;
 
 import android.text.Html;
 
 import com.assignment.MyApp;
 import com.assignment.Utils;
-import com.assignment.model.Address;
 import com.assignment.model.Example;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -17,7 +16,6 @@ import com.google.gson.stream.JsonWriter;
 
 import java.io.IOException;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 import okhttp3.OkHttpClient;
